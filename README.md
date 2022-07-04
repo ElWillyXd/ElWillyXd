@@ -1,2 +1,4 @@
-- 👋 Hola soy WILLY | Web App Developer
-- 👀 Me interesa Frontend & Backend Developer
+👋 Hola soy WILLY | Web App Developer
+Frontend & Backend Developer
+🧑‍💻 HTML | CSS | JavaScript | MySQL 🧑‍💻
+#Tech #Code #JavaScript #Web
